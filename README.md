@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ikkyuuq
-- 👀 I’m interested in Computer and Programming 
-- 🌱 I’m currently learning Programing to be better than now.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Full Stack web development
 - 📫 How to reach me Kittipongprasompong@gmail.com
 
 <!---
