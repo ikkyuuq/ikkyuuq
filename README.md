@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ikkyuuq
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Full Stack web development
-- 📫 How to reach me Kittipongprasompong@gmail.com
+- 👀 I’m interested in Full Stack Web development, Mobile Application Development, and so on...
+- 🌱 Studying Bachelor degree of Computer Engineer (2022 - now)
+- 📫 How to reach me the.kittipongpras@gmail.com
 
 <!---
 ikkyuuq/Introducing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
