@@ -53,7 +53,7 @@ A full-stack web application that helped me learn many aspects of building a ful
 
 _Full Stack Developer (Website, Backend) & Project Owner_
 
-### [beplan](https://github.com/ikkyuuq/beplan) *(Under Development)*
+### [beplan](https://github.com/ikkyuuq/beplan) *(Main features it's works but Under Development)*
 A mobile app development project whose main feature is to integrate AI to generate tasks for users.
 
 _Full Stack Developer (Mobile, Backend)_
