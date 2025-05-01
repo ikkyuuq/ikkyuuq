@@ -37,25 +37,27 @@ A CLI tool that tracks and summarizes your git commits across repositories.
 
 _Developer & Project Owner_
 
-### [movie-recommendation](https://github.com/ikkyuuq/movie-recommendation)
-A full-stack web application that helped me learn many aspects of building a full-stack website.
+### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)
+A game development project where I learned how challenging game development is, but it was fun and we got 1st place in the open house! BTW :3
 
-_Full Stack Developer (Website, Backend) & Project Owner_
+_Developer focusing on fundamental game mechanics and level design._
 
 ### [devlife](https://github.com/ikkyuuq/devlife)
 A CLI-based learning platform where you can submit your code directly from the terminal.
 
 _Full Stack Developer (Website & CLI, Backend) & Project Owner_
 
-### [beplan](https://github.com/ikkyuuq/beplan) *(In Progress)*
+
+### [movie-recommendation](https://github.com/ikkyuuq/movie-recommendation)
+A full-stack web application that helped me learn many aspects of building a full-stack website.
+
+_Full Stack Developer (Website, Backend) & Project Owner_
+
+### [beplan](https://github.com/ikkyuuq/beplan) *(Under Development)*
 A mobile app development project whose main feature is to integrate AI to generate tasks for users.
 
 _Full Stack Developer (Mobile, Backend)_
 
-### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)
-A game development project where I learned how challenging game development is, but it was fun and we got 1st place in the open house! BTW :3
-
-_Developer focusing on fundamental game mechanics and level design._
 
 ## 📫 Let's Connect!
 
