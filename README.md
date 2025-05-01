@@ -32,7 +32,7 @@ Just a **Computer Engineering** boi (2022 - **present**) with inspiration in **S
 
 ## 🚀 Projects & Learning Experience
 
-### [dev-tracker](https://github.com/ikkyuuq/dev-tracker)
+### [dev-tracker](https://github.com/ikkyuuq/dev-tracker) *(On Going)*
 A CLI tool that tracks and summarizes your git commits across repositories.
 
 _Developer & Project Owner_
