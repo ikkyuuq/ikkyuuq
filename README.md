@@ -4,13 +4,13 @@ Just a **Computer Engineering** boi (2022 - **present**) with inspiration in **S
 
 ## Fun Facts
 
-### Currently Learning & Focusing On (Always Learning Until I Think I'm Really Good At It - But I'm Not)
+### Currently Learning & Focusing On 
+Always Learning Until I Think I'm Really Good At It - But I'm Not
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) (Fighting with the borrow checker is my cardio)
 
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white) (Simple yet powerful!)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) (At least it's better than JxxxSxxxx things)
-
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -27,7 +27,7 @@ Just a **Computer Engineering** boi (2022 - **present**) with inspiration in **S
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) (JavaScript but with more yelling)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) (UseEffect is just a fancy way of saying "I hope this works", **HTMX IS JUST BETTER**)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) (UseEffect is just a fancy way of saying "I hope this works")
 
 
 ### Development Tools
