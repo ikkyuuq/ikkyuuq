@@ -1,75 +1,58 @@
 # Kittipong Prasompong
 
-Just a **Computer Engineering** boi (2022 - **present**) with inspiration in **Software Development, Full Stack Development** and Mobile Application Development, and so on... Currently seeking opportunities to apply my technical skills in a real-world environment. I'm passionate about learning new technologies and building practical solutions to real-world problems.
+**Computer Engineering Student (2022 – Present)**  
+Passionate about **Software Development**, **Full-Stack Development**, and **Mobile Application Development**. I’m driven to build practical, impactful solutions and am eager to apply my skills in a professional setting. Always learning and exploring new technologies to create innovative projects.
 
-## Fun Facts
+---
 
-### Currently Learning & Focusing On 
-Always Learning Until I Think I'm Really Good At It - But I'm Not
+## Technical Skills
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) (Fighting with the borrow checker is my cardio)
+- **Languages**: Rust, Go, JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks & Libraries**: React, Node.js, HTMX, Tailwind CSS
+- **Tools & Platforms**: Git, Postman, Neovim, Arch Linux
+- **Currently Exploring**: Rust (mastering the borrow checker), HTMX, Go
 
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat&logo=htmx&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+---
 
+## 🚀 Key Projects
 
-### Languages That Make Me Question My Life Choices 🤔
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) (Indentation is law and whitespace is judge)
+### [dev-tracker](https://github.com/ikkyuuq/dev-tracker) *(In Progress)*  
+A CLI tool for tracking and summarizing Git commits across repositories.  
+- **Role**: Developer & Project Owner  
+- **Tech**: Rust, CLI Development  
+- **Impact**: Streamlines developer workflow by providing commit insights.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) (Somehow they're all falsy)
+### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)  
+A game development project that won **1st place** at a university open house.  
+- **Role**: Developer (Game Mechanics, Level Design)  
+- **Tech**: Game Development Frameworks  
+- **Impact**: Learned core game development principles and teamwork.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) (JavaScript but with more yelling)
+### [devlife](https://github.com/ikkyuuq/devlife)  
+A CLI-based learning platform for submitting code directly from the terminal.  
+- **Role**: Full-Stack Developer (Website, CLI, Backend) & Project Owner  
+- **Tech**: JavaScript, Node.js, CLI Tools  
+- **Impact**: Built an accessible platform for developers to practice coding.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) (UseEffect is just a fancy way of saying "I hope this works")
+### [movie-recommendation](https://github.com/ikkyuuq/movie-recommendation)  
+A full-stack web application for personalized movie recommendations.  
+- **Role**: Full-Stack Developer (Website, Backend) & Project Owner  
+- **Tech**: JavaScript, React, Node.js  
+- **Impact**: Gained hands-on experience in full-stack web development.
 
+### [beplan](https://github.com/ikkyuuq/beplan) *(Under Development)*  
+A mobile app integrating AI to generate user tasks.  
+- **Role**: Full-Stack Developer (Mobile, Backend)  
+- **Tech**: Mobile Development, AI Integration  
+- **Impact**: Developing skills in mobile app development and AI-driven features.
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) (I use Arch BTW)
+---
 
-## 🚀 Projects & Learning Experience
+## 📫 Connect with Me
 
-### [dev-tracker](https://github.com/ikkyuuq/dev-tracker) *(WIP)*
-A CLI tool that tracks and summarizes your git commits across repositories.
+- **Email**: [the.kittipongpras@gmail.com](mailto:the.kittipongpras@gmail.com)  
+- **GitHub**: [github.com/ikkyuuq](https://github.com/ikkyuuq)  
+- **X**: [x.com/thekppras](https://x.com/thekppras)  
+- **Instagram**: [instagram.com/kppras](https://www.instagram.com/kppras/)
 
-_Developer & Project Owner_
-
-### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)
-A game development project where I learned how challenging game development is, but it was fun and we got 1st place in the open house! BTW :3
-
-_Developer focusing on fundamental game mechanics and level design._
-
-### [devlife](https://github.com/ikkyuuq/devlife)
-A CLI-based learning platform where you can submit your code directly from the terminal.
-
-_Full Stack Developer (Website & CLI, Backend) & Project Owner_
-
-
-### [movie-recommendation](https://github.com/ikkyuuq/movie-recommendation)
-A full-stack web application that helped me learn many aspects of building a full-stack website.
-
-_Full Stack Developer (Website, Backend) & Project Owner_
-
-### [beplan](https://github.com/ikkyuuq/beplan) *(Main features it's works but Under Development)*
-A mobile app development project whose main feature is to integrate AI to generate tasks for users.
-
-_Full Stack Developer (Mobile, Backend)_
-
-
-## 📫 Let's Connect!
-
-I'm always eager to learn from experienced developers and explore!
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:the.kittipongpras@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/ikkyuuq)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/thekppras)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kppras/)
+---
