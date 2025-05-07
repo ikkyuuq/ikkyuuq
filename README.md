@@ -1,7 +1,7 @@
 # Kittipong Prasompong
 
 **Computer Engineering Student (2022 – Present)**  
-Passionate about **Software Development**, **Full-Stack Development**, and **Mobile Application Development**. I’m driven to build practical, impactful solutions and am eager to apply my skills in a professional setting. Always learning and exploring new technologies to create innovative projects.
+Passionate about **Software Development**, **Full-Stack Development**, and Mobile Application Development.
 
 ---
 
@@ -16,11 +16,11 @@ Passionate about **Software Development**, **Full-Stack Development**, and **Mob
 
 ## 🚀 Key Projects
 
-### [dev-tracker](https://github.com/ikkyuuq/dev-tracker) *(In Progress)*  
+### [flex](https://github.com/ikkyuuq/flex) *(In Progress)*  
 A CLI tool for tracking and summarizing Git commits across repositories.  
 - **Role**: Developer & Project Owner  
-- **Tech**: Rust, CLI Development  
-- **Impact**: Streamlines developer workflow by providing commit insights.
+- **Tech**: Rust
+- **Impact**: ...
 
 ### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)  
 A game development project that won **1st place** at a university open house.  
