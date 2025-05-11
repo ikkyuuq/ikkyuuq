@@ -18,7 +18,7 @@ Passionate about **Software Development**, **Full-Stack Development**, and Mobil
 
 
 ### [wud-rs](https://github.com/ikkyuuq/wud-rs) *(In Progress)*  
-Rust library that help developer easy to track the error that occured in their project.
+Rust library that help developer immediately get a notification/messages when the sensitive services getting error.
 - **Role**: Developer & Project Owner  
 - **Tech**: Rust
 
