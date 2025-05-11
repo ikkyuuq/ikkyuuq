@@ -16,11 +16,17 @@ Passionate about **Software Development**, **Full-Stack Development**, and Mobil
 
 ## 🚀 Key Projects
 
+
+### [wud-rs](https://github.com/ikkyuuq/wud-rs) *(In Progress)*  
+Rust library that help developer easy to track the error that occured in their project.
+- **Role**: Developer & Project Owner  
+- **Tech**: Rust
+
 ### [flex](https://github.com/ikkyuuq/flex) *(In Progress)*  
 A CLI tool for tracking and summarizing Git commits across repositories.  
 - **Role**: Developer & Project Owner  
 - **Tech**: Rust
-- **Impact**: ...
+- **Impact**: Learn how to rust
 
 ### [doodwell](https://github.com/ikkyuuq/Centum-Survivors)  
 A game development project that won **1st place** at a university open house.  
